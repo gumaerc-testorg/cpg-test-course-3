@@ -1,0 +1,24 @@
+{
+  "level": "",
+  "topics": [],
+  "instructors": {
+    "content": [],
+    "website": "cpg-test-course-3"
+  },
+  "course_image": {
+    "content": "420d0097-9744-4013-9e7c-03278d68cff5",
+    "website": "cpg-test-course-3"
+  },
+  "course_title": "cpg-test-course-3",
+  "course_description": "cpg test course 3",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "3",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "cpg-test-course-3"
+  },
+  "learning_resource_types": []
+}
