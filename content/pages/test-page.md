@@ -34,4 +34,6 @@ Here are links for them:
 
 testing new tables:
 
-{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}one{{< thclose >}}{{< thopen >}}two{{< thclose >}}{{< thopen >}}three{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}uno{{< tdclose >}}{{< tdopen >}}dos{{< tdclose >}}{{< tdopen >}}tres{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}ichi{{< tdclose >}}{{< tdopen >}}ni{{< tdclose >}}{{< tdopen >}}san{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}one{{< thclose >}}{{< thopen >}}two{{< thclose >}}{{< thopen >}}three{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}uno{{< tdclose >}}{{< tdopen >}}dos{{< tdclose >}}{{< tdopen >}}tres{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}ichi{{< tdclose >}}{{< tdopen >}}ni{{< tdclose >}}{{< tdopen >}}san{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}{{< resource 420d0097-9744-4013-9e7c-03278d68cff5 >}}{{< tdclose >}}{{< tdopen >}}- quatro
+- cinco
+- seis{{< tdclose >}}{{< tdopen >}}> block quote with the **boldness**{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
