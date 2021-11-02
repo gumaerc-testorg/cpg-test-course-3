@@ -1,5 +1,6 @@
 ---
 content_type: video_gallery
+description: "## video gallery\n\nThis is a test of a video gallery. \_Woo hoo!"
 title: video gallery test
 uid: 9fbb6670-b9d2-4cff-b840-64e66b0d06d5
 videos:
