@@ -3,11 +3,11 @@ leftnav:
   name: Test Page
   url: /pages/test-page
   weight: 10
-- identifier: 420d0097-9744-4013-9e7c-03278d68cff5
-  name: Test Image
-  url: /resources/bob
-  weight: 20
 - identifier: cd9e6eca-d347-4532-a91c-c325125680f0
   name: Test Document
   url: /resources/sample
+  weight: 20
+- identifier: 420d0097-9744-4013-9e7c-03278d68cff5
+  name: Test Image
+  url: /resources/bob
   weight: 30
