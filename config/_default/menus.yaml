@@ -2,8 +2,12 @@ leftnav:
 - identifier: c691ffac-4fe0-4676-9dd5-62666e1f4a12
   name: Test Page
   url: /pages/test-page
-  weight: 0
+  weight: 10
 - identifier: 420d0097-9744-4013-9e7c-03278d68cff5
   name: Test Image
   url: /resources/bob
-  weight: 10
+  weight: 20
+- identifier: cd9e6eca-d347-4532-a91c-c325125680f0
+  name: Test Document
+  url: /resources/sample
+  weight: 30
