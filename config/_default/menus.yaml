@@ -7,9 +7,9 @@ leftnav:
   name: Test Page 2
   url: /pages/test-page-2
   weight: 20
-- identifier: external--760432549-1636044252050
+- identifier: external--2098572492-1637096546545
   name: Google
-  url: https://google.com
+  url: https://google.com/
   weight: 30
 - identifier: cd9e6eca-d347-4532-a91c-c325125680f0
   name: Test Document
@@ -23,6 +23,6 @@ leftnav:
   weight: 20
 - identifier: external--342965816-1637096526647
   name: c4103
-  parent: external--760432549-1636044252050
+  parent: external--2098572492-1637096546545
   url: https://c4103.com/
   weight: 10
