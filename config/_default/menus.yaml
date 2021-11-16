@@ -21,8 +21,8 @@ leftnav:
   parent: c691ffac-4fe0-4676-9dd5-62666e1f4a12
   url: /resources/bob
   weight: 20
-- identifier: external-2067146567-1636044281544
+- identifier: external--342965816-1637096526647
   name: c4103
   parent: external--760432549-1636044252050
-  url: https://c4103.com
+  url: https://c4103.com/
   weight: 10
