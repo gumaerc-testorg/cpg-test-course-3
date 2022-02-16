@@ -1,5 +1,6 @@
 ---
 content_type: page
+draft: false
 title: Test Page
 uid: c691ffac-4fe0-4676-9dd5-62666e1f4a12
 ---
