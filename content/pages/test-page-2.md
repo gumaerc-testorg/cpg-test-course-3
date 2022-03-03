@@ -16,4 +16,6 @@ one line underline with spaces
 **one line bold with spaces**
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link ad3d580d-e329-4190-a149-590f305c2fa1 "one line resource link with space" %}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
+merged cell **bold** _italic_
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
