@@ -7,7 +7,7 @@ uid: 04f1125a-2d38-466c-89f1-80be162a9205
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 **bold title**
 {{< thclose >}}{{< thopen >}}
-another bold title
+title but not explicitly bold
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 _one line italics with spaces_
 {{< tdclose >}}{{< tdopen >}}
