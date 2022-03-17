@@ -8,4 +8,4 @@ This should show up to link to
 
  
 
-wordwith_italics_inthemiddle
+wordwith\*italics\*inthemiddle
