@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /media/media/courses/cpg-test-course-3/video-sample.mp4
+draft: false
+file: /media/media/media/courses/cpg-test-course-3/video-sample.mp4
 file_type: ''
 image_metadata:
   caption: ''
@@ -21,3 +22,4 @@ video_metadata:
   video_tags: ''
   youtube_id: ulPWKn5hJ3w
 ---
+Body test
