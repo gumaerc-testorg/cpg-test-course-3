@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/cpg-test-course-3/izzy.jpg
+file: /media/media/courses/cpg-test-course-3/izzy.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

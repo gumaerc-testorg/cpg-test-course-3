@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/cpg-test-course-3/bob.png
+file: /media/media/courses/cpg-test-course-3/bob.png
 file_type: image/png
 image_metadata:
   caption: ''
