@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/media/gdrive_uploads/cpg-test-course-3/1KGPUnryZJR1L10cqKho0rHIWQazmcShS/video-sample.mp4
+file: /media/gdrive_uploads/cpg-test-course-3/1KGPUnryZJR1L10cqKho0rHIWQazmcShS/video-sample.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
