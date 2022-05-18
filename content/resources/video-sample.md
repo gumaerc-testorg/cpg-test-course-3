@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /media/media/media/courses/cpg-test-course-3/video-sample.mp4
+file: /media/media/media/courses/3-cpg-test-course-3-fall-2022/video-sample.mp4
 file_type: ''
 image_metadata:
   caption: ''

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/media/media/courses/cpg-test-course-3/sample.pdf
+file: /media/media/media/courses/3-cpg-test-course-3-fall-2022/sample.pdf
 file_type: ''
 image_metadata:
   caption: ''

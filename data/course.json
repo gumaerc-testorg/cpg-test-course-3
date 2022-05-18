@@ -1,10 +1,11 @@
 {
-  "term": "",
-  "year": "",
+  "term": "Fall",
+  "year": "2022",
   "level": [
     "Undergraduate"
   ],
   "topics": [],
+  "legacy_uid": "",
   "instructors": {
     "content": [],
     "website": "cpg-test-course-3"
