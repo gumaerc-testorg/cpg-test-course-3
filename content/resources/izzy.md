@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /media/media/courses/3-cpg-test-course-3-fall-2022/izzy.jpg
+file: /media/courses/3-cpg-test-course-3-fall-2022/izzy.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
